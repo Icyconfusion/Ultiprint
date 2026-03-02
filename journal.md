@@ -1,6 +1,6 @@
 Made by: @kyle.mason
 Repository link: https://github.com/Icyconfusion/Ultiprint
-Total hours so far: 6
+Total hours so far: 10
 
 - [x] I have a 3D printer or will be getting one before March 21st
 
@@ -20,3 +20,11 @@ Then I thought about the enclosure. In my research, I found polycarbonate is oft
 Kept working on the assembly. Originally, I had planned to essentially make a cube out of profiles, though now i have moved the vertical posts down to create feet for the printer. Additionally, I researched materials for the enclosure, as polycarbonate seemed kind of expensive. I cam across ACM (Aluminium composite metal). This gives it a clean, metal look. For the top, bottom, and side panels, I will use ACM. But for the door, I will use polycarbonate to be able to see the print. The door will be mounted on hinges, and panels will be mounted using T nuts.
 
 I also started working on the Z axis. To get 3 point Auto-bed levelling, I have one z motor in each corner. Each motor is connected to a leadscrew to drive the bed. I made the bracket to mount them to the T nuts. I now just need to add the mechansim for the nut block to attach to the bed. In research, I found that similar systems e.g ratrig use steel balls and rods in a coupling to mount the bed, so I might try that.
+
+**Log 3**
+2/3/26
+4 hours
+
+Redesigned the bracket for the Z axis motors to improve space, and added a holder for the support rods. Also modelled ACM panels for the sides. I have found a relatively cheap supplier (where I don't need to pay 100+ in shipping) for the ACM. 
+
+Also made the entire X and Y axes. I will use linear rails for the motion, with MGN12H carriages. The extruder will be a mk8 extruder and mk8 hotend, in my own X carriage 3d printed design.
