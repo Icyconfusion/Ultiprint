@@ -1,6 +1,6 @@
 Made by: @kyle.mason
 Repository link: https://github.com/Icyconfusion/Ultiprint
-Total hours so far: 10
+Total hours so far: 12
 
 - [x] I have a 3D printer or will be getting one before March 21st
 
@@ -28,3 +28,9 @@ I also started working on the Z axis. To get 3 point Auto-bed levelling, I have 
 Redesigned the bracket for the Z axis motors to improve space, and added a holder for the support rods. Also modelled ACM panels for the sides. I have found a relatively cheap supplier (where I don't need to pay 100+ in shipping) for the ACM. 
 
 Also made the entire X and Y axes. I will use linear rails for the motion, with MGN12H carriages. The extruder will be a mk8 extruder and mk8 hotend, in my own X carriage 3d printed design.
+
+**Log 4**
+3/3/26
+2 hours
+Had to move around some elements of the frame to give enough space for things like the extruder etc without hitting the ACM panels. Also started thinking about belts. Decided on a CoreXY system (orignally I considered a cartesian system), and made the brackets for the motors.
+
