@@ -1,6 +1,6 @@
 Made by: @kyle.mason
 Repository link: https://github.com/Icyconfusion/Ultiprint
-Total hours so far: 12
+Total hours so far: 15
 
 - [x] I have a 3D printer or will be getting one before March 21st
 
@@ -34,3 +34,9 @@ Also made the entire X and Y axes. I will use linear rails for the motion, with 
 2 hours
 Had to move around some elements of the frame to give enough space for things like the extruder etc without hitting the ACM panels. Also started thinking about belts. Decided on a CoreXY system (orignally I considered a cartesian system), and made the brackets for the motors.
 
+**Log 5**
+5/5/26
+3 hours
+Tweaking the CoreXY system. It was hard to get the belts at the right height, especially given the cover on top. I tried to use pulleys for both belts on one pillar (stacked on top of each other) but this was getting quite hard. I did a bit of research and realised that I could just separate them into two, so that worked. I will work on that next log.
+
+I also started designing the Z support for the bed, and edited the corner brackets again to include the smooth rods as supports.
