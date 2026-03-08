@@ -2,6 +2,7 @@
 A CoreXY 3d printer with an ACM enclosure and 300x300x360mm build volume. It has 3 point ABL when a probe is mounted, and can do sensorless/endstopless homing with a TMC2209.
 <img width="777" height="700" alt="image" src="https://github.com/user-attachments/assets/6e60d6b1-c809-48ab-9a39-d887c5a3ea0a" />
 
+My aims for the project were to design a 3d printer that could print materials I didn't have access to printing before. I wanted to design something with an enclosure, as I think that looked cool. 3 point auto bed levelling was also something I wanted to explore mechanically in being able to handle tilt of the print bed with out restricting motion. 
 
 **Note:** The prices in the BOM are for the products, but when added to cart there are a number of deals, coupons etc that bring the price well under $350. I also have the remaining components at home already.
 
