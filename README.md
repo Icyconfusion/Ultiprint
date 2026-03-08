@@ -18,3 +18,7 @@ For the Z axis, there are 3 3d printed brackets that each hold smooth rods and l
 
 ### Electronics
 For the motherboard, I am using a PCB motherboard I designed a while ago (reduces cost). It is based on the Mega2560 and A4988 (or other driver of same footprint) drivers.
+<img width="655" height="384" alt="image" src="https://github.com/user-attachments/assets/63cb0cf2-4cec-45dc-8ecd-44137e8a9e55" />
+<img width="645" height="394" alt="image" src="https://github.com/user-attachments/assets/a052aa6f-885b-404f-b8f2-fc39dfec88b0" />
+
+
