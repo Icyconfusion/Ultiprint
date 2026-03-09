@@ -21,4 +21,7 @@ For the motherboard, I am using a PCB motherboard I designed a while ago (reduce
 <img width="655" height="384" alt="image" src="https://github.com/user-attachments/assets/63cb0cf2-4cec-45dc-8ecd-44137e8a9e55" />
 <img width="645" height="394" alt="image" src="https://github.com/user-attachments/assets/a052aa6f-885b-404f-b8f2-fc39dfec88b0" />
 
+### Firmware
+There is a full zipped marlin build in the firmware folder above. Additionally, I pasted the files that I had to edit to support my custom board. I added a custom board to boards.h, then made a full pin mapping in pins_ULTIPRINT.h, and tweaked the config and config adv files.
+
 
