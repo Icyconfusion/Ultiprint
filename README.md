@@ -8,7 +8,7 @@ My aims for the project were to design a 3d printer that could print materials I
 
 # About
 ### Frame
-The frame is made of 2020 T slot profiles in a cube like structure with 90 degree brackets to hold it together. The profiles used for the Y axis can be raised or lowered to provide more clearance if it is needed when using a different hotend. Linear rails are mounted on the underside to allow the X axis to move back and forth. On the X carriage the blower fan blows air into the duct to cool both the nozzle and the part.
+The frame is made of 2020 T slot profiles in a cube like structure with 90 degree brackets to hold it together. The profiles used for the Y axis can be raised or lowered to provide more clearance if it is needed when using a different hotend or if more clearance is needed for filament to run through a drilled hole in the top panel. Linear rails are mounted on the underside to allow the X axis to move back and forth. On the X carriage the blower fan blows air into the duct to cool both the nozzle and the part.
 
 ### Motion
 The printer uses a standard CoreXY system with stacked belts, meaning there is no need for a belt crossover. The belts attach to the extruder by lopping around and being held with belt clamps. This is the belt path:
